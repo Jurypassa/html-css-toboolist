@@ -54,3 +54,41 @@ hr{
     margin-top: 20px;
 }
 
+#spunta{
+    color: green;
+    border: 1px solid green;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+.button2 {
+    font-size: 12px;
+    color: white;
+    padding: 7px;
+    border: 1px;
+    border-radius: 10px;
+}
+
+.blu{
+    background-color: dodgerblue;
+}
+
+.viola{
+    background-color: darkviolet;
+}
+
+.green{
+    background-color: green;
+}
+
+.arancione{
+    background-color: orange;
+}
+
+.rosa{
+    background-color:orchid;
+}
+
+.lime{
+    background-color: palegreen;
+}
