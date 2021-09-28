@@ -17,7 +17,9 @@
 
 .container{
     width: 100%;
-    background-color: lightgray;
+    background-color: rgb(235, 232, 232);
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
 
 .container-center{
@@ -26,3 +28,29 @@
     border-radius: 5px;
     background-color: white;  
 }
+
+.center{
+    padding: 15px 0 10px 50px;
+}
+
+.button{
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.first{
+    background-color: lightskyblue;
+    color: white;   
+}
+
+.second{
+    background-color: white;
+    color: gray;
+}
+
+hr{
+    color: rgb(235, 232, 232);
+    margin-top: 20px;
+}
+
